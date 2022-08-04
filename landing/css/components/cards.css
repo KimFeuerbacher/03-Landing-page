@@ -1,0 +1,21 @@
+.cards {
+width: 100%;
+display: flex;
+justify-content: space-between;
+}
+
+.card img {
+  width: 220px;
+  height: 150px;
+}
+
+.card {
+  color: black;
+  text-align: center;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.card p {
+font-size: 16px;
+color: black;
+}
